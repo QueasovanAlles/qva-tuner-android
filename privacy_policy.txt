@@ -1,0 +1,20 @@
+Privacy Policy for QvA Tuner
+
+Last updated: 2025/02/12
+
+1. App Functionality
+This app analyzes the audio stream incoming through your device's microphone to display the current frequency in real-time. 
+
+2. Data Usage
+- The sound stream is analyzed instantly and then discarded
+- No audio recording or storage takes place
+- No audio data is transmitted anywhere
+
+3. Analytics
+The app uses standard Google Analytics to collect basic usage statistics to help improve app performance and user experience.
+
+4. Data Collection
+Beyond standard Google Analytics, no personal data or audio information is collected, stored, or shared with any third parties.
+
+5. Contact
+Questions about this privacy policy? Contact: queasovanalles@gmail.com
