@@ -14,7 +14,7 @@ However : The google group is open for everybody without any needed extra commun
 This is a sample of an android app using nothing but local assets and so being offline available. 
 Those local assets contain the built angular webapp Qva-Tuner.
 Interaction between the webapp, shown in a WebView, and the android app and manifest settings,
-providing microphone availability, may be the edecutave part of this repo.
+providing microphone availability, may be the educative part of this repo.
 
 ## Credits
 This QvA tuner app relies on open source MIT licensed code [The tuner algorithm]
