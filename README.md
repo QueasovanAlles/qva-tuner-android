@@ -3,15 +3,18 @@
 This android app analyzes the audio stream incoming through your device's microphone to display the current frequency as music note. Easy way to tune your instrument or retrieving the music note fitting with the sound you hear
 
 ## Testing Status
-The app is in 'Closed Test' phase at Google Play
+The app is in 'Closed Test' phase at Google Play : only members of the google group qva-tuner have access.
+However : The google group is open for everybody without any needed extra communication. 
 
-### [Test the app on Google Play](https://play.google.com/apps/testing/com.qva.qvatuner)
+### [Register to the test (no costs, free usage)!](https://groups.google.com/g/qva-tuner)
 
-> **NOTE:**
-> - That webpage and it's content is controlled by Google Play
-> - Which is gathering 'Closed Test' statistics for this tuner app
-> - Which I can view as 'Google Play Developer' of the android 'Qva Tuner' app
-> - Once tested enough, it can be produced, ie. released in Google Play public
+### [Download the app from Google Play](https://play.google.com/apps/testing/com.qva.qvatuner)
+
+## Specials for developers about this app
+This is a sample of an android app using nothing but local assets and so being offline available. 
+Those local assets contain the built angular webapp Qva-Tuner.
+Interaction between the webapp, shown in a WebView, and the android app and manifest settings,
+providing microphone availability, may be the edecutave part of this repo.
 
 ## Credits
 This QvA tuner app relies on open source MIT licensed code [The tuner algorithm]
