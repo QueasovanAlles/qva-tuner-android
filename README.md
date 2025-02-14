@@ -20,7 +20,7 @@ providing microphone availability, may be the educative part of this repo.
 
 ## For users
 This is what you can expect
-![Alt text](/docs/QvA_tuner__375x667.png)
+![Alt text](/doc/QvA_tuner__375x667.png)
 
 ## Credits
 This QvA tuner app relies on open source MIT licensed code [The tuner algorithm]
